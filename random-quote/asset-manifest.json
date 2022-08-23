@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.b898ea19.css",
-    "main.js": "/static/js/main.d92e27c2.js",
-    "index.html": "/index.html",
-    "main.b898ea19.css.map": "/static/css/main.b898ea19.css.map",
-    "main.d92e27c2.js.map": "/static/js/main.d92e27c2.js.map"
+    "main.css": "https://elygo.github.io/FCC-FE/random-quote/static/css/main.b898ea19.css",
+    "main.js": "https://elygo.github.io/FCC-FE/random-quote//static/js/main.d92e27c2.js",
+    "index.html": "https://elygo.github.io/FCC-FE/random-quote/index.html",
+    "main.b898ea19.css.map": "https://elygo.github.io/FCC-FE/random-quote/static/css/main.b898ea19.css.map",
+    "main.d92e27c2.js.map": "https://elygo.github.io/FCC-FE/random-quote/static/js/main.d92e27c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b898ea19.css",
-    "static/js/main.d92e27c2.js"
+    "https://elygo.github.io/FCC-FE/random-quote/static/css/main.b898ea19.css",
+    "https://elygo.github.io/FCC-FE/random-quote/static/js/main.d92e27c2.js"
   ]
 }
