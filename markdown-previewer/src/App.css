@@ -1,0 +1,54 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;  
+  height: 100vh;
+}
+
+.left-side {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+.right-side {
+  position: relative;
+  display: flex;
+  flex: 1;  
+  justify-content: center;
+}
+
+.header {
+  position: sticky;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  font-size: 20px;
+  background-color: rgb(176, 230, 154);
+  border: 1px solid rgb(176, 230, 154);
+  width: 100%;
+}
+
+#editor {
+  position: absolute;
+  height:inherit; 
+  width: 100%;
+  margin-top: 51px;
+  padding: 10px;
+  border: none;
+}
+
+#preview {
+  position: absolute;
+  width: 100%;
+  margin-top: 50px;
+  padding: 10px;
+  border-left: 1px solid rgb(176, 230, 154);
+}
