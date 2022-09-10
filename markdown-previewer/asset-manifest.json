@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://elygo.github.io/FCC-FE/markdown-previewer/static/css/main.94b106ff.css",
+    "main.js": "https://elygo.github.io/FCC-FE/markdown-previewer/static/js/main.3e47506b.js",
+    "static/media/initial.md": "https://elygo.github.io/FCC-FE/markdown-previewer/static/media/initial.73e3bd4b7fc45856cb82.md",
+    "index.html": "https://elygo.github.io/FCC-FE/markdown-previewer/index.html",
+    "main.94b106ff.css.map": "https://elygo.github.io/FCC-FE/markdown-previewer/static/css/main.94b106ff.css.map",
+    "main.3e47506b.js.map": "https://elygo.github.io/FCC-FE/markdown-previewer/static/js/main.3e47506b.js.map"
+  },
+  "entrypoints": [
+    "https://elygo.github.io/FCC-FE/markdown-previewer/static/css/main.94b106ff.css",
+    "https://elygo.github.io/FCC-FE/markdown-previewer/static/js/main.3e47506b.js"
+  ]
+}
