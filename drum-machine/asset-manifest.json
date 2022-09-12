@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://elygo.github.io/FCC-FE/drum-machine/static/css/main.95be94a4.css",
+    "main.js": "https://elygo.github.io/FCC-FE/drum-machine/static/js/main.ca94f08e.js",
+    "index.html": "https://elygo.github.io/FCC-FE/drum-machine/index.html",
+    "main.95be94a4.css.map": "https://elygo.github.io/FCC-FE/drum-machine/static/css/main.95be94a4.css.map",
+    "main.ca94f08e.js.map": "https://elygo.github.io/FCC-FE/drum-machine/static/js/main.ca94f08e.js.map"
+  },
+  "entrypoints": [
+    "https://elygo.github.io/FCC-FE/drum-machine/static/css/main.95be94a4.css",
+    "https://elygo.github.io/FCC-FE/drum-machine/static/js/main.ca94f08e.js"
+  ]
+}
