@@ -1,0 +1,87 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url("https://img.freepik.com/free-vector/musical-pentagram-sound-waves-notes-background_1017-33911.jpg?w=2000");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.drum-pad {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  order: 3;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 22px;
+  color: rgb(217, 255, 0);
+  background-color: rgb(90, 197, 18);
+}
+
+.display-wrapper {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.display {
+  height: 80px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 25px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  background-color: rgb(217, 255, 0);
+}
+
+input[type="range"] {
+  width: 200px;
+  -webkit-appearance: none;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+  width: 200px;
+  height: 22px;
+  cursor: pointer;
+  background: rgb(217, 255, 0);
+  border-radius: 20px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  height: 22px;
+  width: 28px;
+  border-radius: 20px;
+  background: rgb(90, 197, 18);
+  cursor: pointer;
+  -webkit-appearance: none;
+}
