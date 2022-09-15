@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://elygo.github.io/FCC-FE/calculator/static/css/main.91e5ea90.css",
+    "main.js": "https://elygo.github.io/FCC-FE/calculator/static/js/main.30cfe036.js",
+    "index.html": "https://elygo.github.io/FCC-FE/calculator/index.html",
+    "main.91e5ea90.css.map": "https://elygo.github.io/FCC-FE/calculator/static/css/main.91e5ea90.css.map",
+    "main.30cfe036.js.map": "https://elygo.github.io/FCC-FE/calculator/static/js/main.30cfe036.js.map"
+  },
+  "entrypoints": [
+    "https://elygo.github.io/FCC-FE/calculator/static/css/main.91e5ea90.css",
+    "https://elygo.github.io/FCC-FE/calculator/static/js/main.30cfe036.js"
+  ]
+}
