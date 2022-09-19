@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://elygo.github.io/FCC-FE/clock/static/css/main.8a6b0bb0.css",
+    "main.js": "https://elygo.github.io/FCC-FE/clock/static/js/main.45dc7b0a.js",
+    "index.html": "https://elygo.github.io/FCC-FE/clock/index.html",
+    "main.8a6b0bb0.css.map": "https://elygo.github.io/FCC-FE/clock/static/css/main.8a6b0bb0.css.map",
+    "main.45dc7b0a.js.map": "https://elygo.github.io/FCC-FE/clock/static/js/main.45dc7b0a.js.map"
+  },
+  "entrypoints": [
+    "https://elygo.github.io/FCC-FE/clock/static/css/main.8a6b0bb0.css",
+    "https://elygo.github.io/FCC-FE/clock/static/js/main.45dc7b0a.js"
+  ]
+}
