@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(226, 225, 225);
+}
+
+.wrapper {
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#break-label, #session-label, #timer-label {
+    width: 220px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#break-length, #session-length, #time-left {
+    font-size: 36px;
+}
+
+i {
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+
+.content-center {
+    width: 200px;
+    height: 180px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-header {
+    width: 100%;
+}
